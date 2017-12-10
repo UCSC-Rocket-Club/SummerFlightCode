@@ -1,0 +1,8 @@
+Printing X, Y, Z axis values, press Ctrl-C to quit...
+X=1, Y=21, Z=-239
+X=1, Y=22, Z=-239
+X=1, Y=21, Z=-237
+X=1, Y=21, Z=-238
+X=1, Y=21, Z=-238
+X=1, Y=22, Z=-238
+X=1, Y=21, Z=-238
